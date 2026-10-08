@@ -2,7 +2,7 @@
 
 ## Images
 
-[![open-higgsfield](https://opengraph.githubassets.com/1/https://github.com/higgsfield-ai/higgsfield)](https://www.swifttechco.com)
+[![open-higgsfield](https://opengraph.githubassets.com/1/higgsfield-ai/higgsfield)](https://www.swifttechco.com)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
