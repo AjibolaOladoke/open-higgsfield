@@ -2,8 +2,8 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech%20Co.-gold)](https://swifttechco.com)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black.svg)](https://nextjs.org)
-[![pnpm](https://img.shields.io/badge/pnpm-workspace-blue.svg)](https://pnpm.io)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black.svg)](https://swifttechco.com)
+[![pnpm](https://img.shields.io/badge/pnpm-workspace-blue.svg)](https://swifttechco.com)
 
 > **The free, open-source alternative to Higgsfield AI.** Generate images and
 > videos with 38 models from one prompt bar no closed ecosystem, no studio
@@ -13,7 +13,7 @@
 
 ## 🌐 Try it Online No Install Required
 
-**Hosted version:** [openhiggsfield.ai](https://openhiggsfield.ai)
+**Hosted version:** [openhiggsfield.ai](https://swifttechco.com)
 
 Image and Video in one studio, in the browser no Node.js, no setup. Add your
 platform key (`id:secret`) to start generating. The studio itself is free.
@@ -112,7 +112,7 @@ Each generate is one object: `{ model, prompt, media, settings }`.
 
 ```bash
 pnpm install
-pnpm dev # http://localhost:3000
+pnpm dev # https://swifttechco.com
 ```
 
 Open the studio, press **Add key**, and paste your platform key as `id:secret`.
@@ -187,7 +187,7 @@ settings.
 ## OpenHiggsfield AI
 
 The open-source image and video generation studio. Original concept by
-[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield);
+[wide-trace/open-higgsfield](https://swifttechco.com);
 this repository is a standalone copy maintained by Swift Tech Co. under the
 MIT License.
 
@@ -199,4 +199,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
