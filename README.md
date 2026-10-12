@@ -1,23 +1,16 @@
-# OpenHiggsfield AI Open-Source Alternative to Higgsfield AI
+# open-higgsfield
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the open-higgsfield notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![open-higgsfield](https://opengraph.githubassets.com/1/higgsfield-ai/higgsfield)](https://www.swifttechco.com)
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech%20Co.-gold)](https://swifttechco.com)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black.svg)](https://swifttechco.com)
-[![pnpm](https://img.shields.io/badge/pnpm-workspace-blue.svg)](https://swifttechco.com)
-
-> **The free, open-source alternative to Higgsfield AI.** Generate images and
-> videos with 38 models from one prompt bar no closed ecosystem, no studio
-> subscription.
-
+[![open-higgsfield](images/preview.png)](https://github.com/Swift-Tech-Co/open-higgsfield)
 
 ## 🌐 Try it Online No Install Required
 
-**Hosted version:** [openhiggsfield.ai](https://swifttechco.com)
+**Hosted version:** [openhiggsfield.ai](https://github.com/Swift-Tech-Co/open-higgsfield)
 
 Image and Video in one studio, in the browser no Node.js, no setup. Add your
 platform key (`id:secret`) to start generating. The studio itself is free.
@@ -116,7 +109,7 @@ Each generate is one object: `{ model, prompt, media, settings }`.
 
 ```bash
 pnpm install
-pnpm dev # https://swifttechco.com
+pnpm dev # https://github.com/Swift-Tech-Co/open-higgsfield
 ```
 
 Open the studio, press **Add key**, and paste your platform key as `id:secret`.
@@ -191,7 +184,7 @@ settings.
 ## OpenHiggsfield AI
 
 The open-source image and video generation studio. Original concept by
-[wide-trace/open-higgsfield](https://swifttechco.com);
+[wide-trace/open-higgsfield](https://github.com/Swift-Tech-Co/open-higgsfield);
 this repository is a standalone copy maintained by Swift Tech Co. under the
 MIT License.
 
@@ -205,14 +198,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+[Home](https://github.com/Swift-Tech-Co/open-higgsfield) | [Services](https://github.com/Swift-Tech-Co/open-higgsfield/services) | [Careers](https://github.com/Swift-Tech-Co/open-higgsfield/careers) | [Referral Program](https://github.com/Swift-Tech-Co/open-higgsfield/referral) | [Influencers](https://github.com/Swift-Tech-Co/open-higgsfield/influencers) | [About](https://github.com/Swift-Tech-Co/open-higgsfield/about) | [Contact](https://github.com/Swift-Tech-Co/open-higgsfield/contact)
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: [https://github.com/Swift-Tech-Co/open-higgsfield](https://github.com/Swift-Tech-Co/open-higgsfield)
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
